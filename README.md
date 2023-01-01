@@ -1,3 +1,3 @@
 # TEST_Blockchain
 
-Running and thinking
+Think while running
